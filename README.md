@@ -41,28 +41,15 @@
 ### 📊 GitHub Metrics
 
 <div align="center">
-  <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bif12&theme=tokyonight&hide_border=true" alt="Bif12's Streak" />
 </div>
 
 <br/>
 
+<!-- GitHub Stats - Using markdown image syntax for better compatibility -->
 <div align="center">
-  <!-- GitHub Stats via github-readme-stats (with cache busting) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bif12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Bif12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Bif12's Stats" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Top Languages -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bif12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bif12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bif12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bif12's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bif12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </div>
 
 <br/>
@@ -72,19 +59,17 @@
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Bif12&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
-      <img src="https://github-profile-trophy.vercel.app/?username=Bif12&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Bif12 Trophies" />
-    </picture>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Bif12&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Bif12 Trophies" />
 </div>
 
 <br/>
 
-<!-- Activity Graph -->
+---
+
+### 📈 Contribution Graph
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bif12&theme=tokyo-night&hide_border=true" alt="Bif12's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bif12&theme=tokyo-night&hide_border=true" alt="Bif12's Contribution Graph" />
 </div>
 
 <br/>

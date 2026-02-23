@@ -40,16 +40,30 @@
 
 ### 📊 GitHub Metrics
 
-<p align="center">
-  <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Bif12&show_icons=true&theme=tokyonight&hide_border=true" alt="Bif12's Stats" />
-  <br/><br/>
+<div align="center">
   <!-- Contribution Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bif12&theme=tokyonight&hide_border=true" alt="Bif12's Streak" />
-  <br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- GitHub Stats via github-readme-stats (with cache busting) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Bif12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Bif12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Bif12's Stats" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bif12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bif12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bif12&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+  </picture>
+</div>
 
 <br/>
 
@@ -57,11 +71,21 @@
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bif12&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Bif12 Trophies" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Bif12&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+      <img src="https://github-profile-trophy.vercel.app/?username=Bif12&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Bif12 Trophies" />
+    </picture>
   </a>
-</p>
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bif12&theme=tokyo-night&hide_border=true" alt="Bif12's Activity Graph" />
+</div>
 
 <br/>
 
@@ -69,3 +93,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bif12&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
+
+<!-- Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,10&height=120&section=footer" width="100%"/>

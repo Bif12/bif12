@@ -17,20 +17,12 @@
 
 ### 👨‍💻 A Little About Me
 
-<!-- This aligns the stats perfectly to the right WITHOUT any table borders! -->
-<a href="https://github.com/Bif12">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Bif12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" alt="Bif12's Stats" width="400" />
-</a>
-
-- 🔭 I’m currently working on **exciting new projects**
-- 🌱 I’m currently learning **new frameworks and cloud tech**
-- 👯 I’m looking to collaborate on **innovative Open Source tools**
+- 🔭 I'm currently working on **exciting new projects**
+- 🌱 I'm currently learning **new frameworks and cloud tech**
+- 👯 I'm looking to collaborate on **innovative Open Source tools**
 - 💬 Ask me about **tech, development, and problem-solving**
 - 📫 Reach me at: **[Your Email Address]**
 - ⚡ Fun fact: **I turn coffee into code! ☕**
-
-<!-- This line ensures the sections below don't wrap around the image -->
-<br clear="both"/> 
 
 <br/>
 
@@ -48,10 +40,16 @@
 
 ### 📊 GitHub Metrics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bif12&theme=tokyonight&hide_border=true&v=1" alt="Bif12's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bif12&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
-</div>
+<p align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Bif12&show_icons=true&theme=tokyonight&hide_border=true" alt="Bif12's Stats" />
+  <br/><br/>
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bif12&theme=tokyonight&hide_border=true" alt="Bif12's Streak" />
+  <br/><br/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bif12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 <br/>
 
@@ -59,15 +57,15 @@
 
 ### 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Bif12&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&v=1" alt="Bif12 Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Bif12&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Bif12 Trophies" />
   </a>
-</div>
+</p>
 
 <br/>
 
 <!-- Profile view counter -->
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bif12&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+</p>
